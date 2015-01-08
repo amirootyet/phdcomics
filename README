@@ -1,0 +1,6 @@
+A Small Python web scrapping script that sequentially visits individual pages on phdcomics.com and downloads the comics to local disk.
+
+
+Usage: python phdcomicsdownloader.py
+
+Read More @: http://lifeofpentester.blogspot.in/2015/01/phd-comics-downloader-python-script-to.html
